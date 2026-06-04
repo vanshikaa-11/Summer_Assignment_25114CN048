@@ -1,4 +1,4 @@
-//program to find nth Fibonacci Series
+//program to check armstrong number.
 #include<stdio.h>
 int main(){
     int n,original,remainder;
